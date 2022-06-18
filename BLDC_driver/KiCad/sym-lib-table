@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "TMC6140-EVAL_v1.1-cache")(type "Legacy")(uri "/home/vladimir/Kikad_proj/TFG/v1.1/CAD/TMC6140-EVAL v1.1-cache.lib")(options "")(descr ""))
+  (lib (name "TMC6140-EVAL_v1.1-rescue")(type "Legacy")(uri "/home/vladimir/Kikad_proj/TFG/v1.1/CAD/TMC6140-EVAL v1.1-rescue.lib")(options "")(descr ""))
+  (lib (name "V1_0-rescue")(type "Legacy")(uri "${KIPRJMOD}/V1_0-rescue.lib")(options "")(descr ""))
+)

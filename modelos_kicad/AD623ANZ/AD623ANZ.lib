@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# AD623ANZ
+#
+DEF AD623ANZ U 0 40 Y Y 1 L N
+F0 "U" -206 678 50 H V L BNN
+F1 "AD623ANZ" -269 -914 50 H V L BNN
+F2 "DIP254P762X533-8" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Analog Devices" 0 0 50 H I L BNN "SUPPLIER"
+F5 "9603700" 0 0 50 H I L BNN "OC_FARNELL"
+F6 "AD623ANZ" 0 0 50 H I L BNN "MPN"
+F7 "PDIP-8" 0 0 50 H I L BNN "PACKAGE"
+F8 "59K4402" 0 0 50 H I L BNN "OC_NEWARK"
+DRAW
+S -500 -800 500 600 0 0 16 f
+X +VS 7 -700 400 200 R 40 40 0 0 W 
+X +IN 3 -700 200 200 R 40 40 0 0 I 
+X -IN 2 -700 100 200 R 40 40 0 0 I 
+X +RG 8 -700 -100 200 R 40 40 0 0 P 
+X -RG 1 -700 -200 200 R 40 40 0 0 P 
+X REF 5 -700 -400 200 R 40 40 0 0 P 
+X -VS 4 -700 -600 200 R 40 40 0 0 W 
+X OUTPUT 6 700 400 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library
